@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-DoubleLinkedList\Section8-DoubleLinkedList\bin\Debug\Section8-DoubleLinkedList.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-DoubleLinkedList\Section8-DoubleLinkedList\bin\Debug\Section8-DoubleLinkedList.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-DoubleLinkedList\Section8-DoubleLinkedList\bin\Debug\Section8-DoubleLinkedList.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-DoubleLinkedList\Section8-DoubleLinkedList\obj\Debug\Section8-DoubleLinkedList.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-DoubleLinkedList\Section8-DoubleLinkedList\obj\Debug\Section8-DoubleLinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-DoubleLinkedList\Section8-DoubleLinkedList\obj\Debug\Section8-DoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-DoubleLinkedList\Section8-DoubleLinkedList\obj\Debug\Section8-DoubleLinkedList.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-DoubleLinkedList\Section8-DoubleLinkedList\obj\Debug\Section8-DoubleLinkedList.pdb
